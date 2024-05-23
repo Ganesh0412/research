@@ -1,0 +1,8 @@
+Azcopy make "https://ganeshstorage1.blob.core.windows.net/container2?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-05-23T13:23:52Z&st=2024-05-23T05:23:52Z&spr=https&sig=aUP6oRoYeQP%2FAXRuGE9VTJAjw2LYReJ5XUtFEQGDrxY%3D"
+
+
+Azcopy copy "C:\Users\GANESH\Downloads\WSA Claim Form (1).xlsx" "https://ganeshstorage1.blob.core.windows.net/container2?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-05-23T13:23:52Z&st=2024-05-23T05:23:52Z&spr=https&sig=aUP6oRoYeQP%2FAXRuGE9VTJAjw2LYReJ5XUtFEQGDrxY%3D"
+
+Azcopy copy "C:\Users\GANESH\Downloads\azcopy_windows_amd64_10.24.0\*\*" "https://ganeshstorage1.blob.core.windows.net/container2?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-05-23T13:23:52Z&st=2024-05-23T05:23:52Z&spr=https&sig=aUP6oRoYeQP%2FAXRuGE9VTJAjw2LYReJ5XUtFEQGDrxY%3D"
+
+Azcopy copy  "https://ganeshstorage1.blob.core.windows.net/container2/*/*?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-05-23T13:23:52Z&st=2024-05-23T05:23:52Z&spr=https&sig=aUP6oRoYeQP%2FAXRuGE9VTJAjw2LYReJ5XUtFEQGDrxY%3D" "C:\Users\GANESH\Downloads\ganeshlocal"
